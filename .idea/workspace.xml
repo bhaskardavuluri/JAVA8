@@ -1,37 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="94880902-b809-40ca-acf4-ccfb3b8616ab" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Function_one.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Function_two.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test1.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test10.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test10.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test11.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test11.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test12.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test12.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test13.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test2.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test3.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test3.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test4.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test4.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test5.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test6.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test6.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test7.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test7.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test8.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test8.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test9.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/Test9.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/TestThree.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class-2  Lamda expression/TestThree.java" beforeDir="false" />
+    <list default="true" id="5ad5d5a1-2e53-45b9-a8bd-2b475ecbb4fe" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,9 +13,10 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
   "associatedIndex": 4
 }]]></component>
-  <component name="ProjectId" id="2zdOpQw7pc1kCfHe3BwdmNzm73C" />
+  <component name="ProjectId" id="2zfhWbmx8cPLI83WGXxLYJ2U5iB" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -55,7 +27,6 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "D:/JAVA8",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
@@ -70,12 +41,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="94880902-b809-40ca-acf4-ccfb3b8616ab" name="Changes" comment="" />
-      <created>1752057666109</created>
+      <changelist id="5ad5d5a1-2e53-45b9-a8bd-2b475ecbb4fe" name="Changes" comment="" />
+      <created>1752128069933</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1752057666109</updated>
-      <workItem from="1752057668312" duration="40000" />
+      <updated>1752128069933</updated>
+      <workItem from="1752128072688" duration="149000" />
     </task>
     <servers />
   </component>
