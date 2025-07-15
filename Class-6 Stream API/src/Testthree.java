@@ -5,7 +5,7 @@ import java.util.stream.Collectors;
 public class Testthree {
     public static void main(String[] args) {
         List<String> enames=new ArrayList<String>();
-        enames.add("ballaya");
+        enames.add("balayya");
         enames.add("bhaskar");
         List<String> new_enames=enames.stream()
                 .map(ename->ename.toUpperCase())
