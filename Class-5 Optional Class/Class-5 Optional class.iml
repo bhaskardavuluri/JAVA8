@@ -3,9 +3,7 @@
   <component name="NewModuleRootManager" inherit-compiler-output="true">
     <exclude-output />
     <content url="file://$MODULE_DIR$">
-      <sourceFolder url="file://$MODULE_DIR$/Class-1 Functional interface" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Class-2  Lambda expression-1" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/Class-3 Lambda expression-2" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
